@@ -1,3 +1,5 @@
 Hello This is my first Commit please accept
+Both the commits are merged
 
-Hello!! This is my first commit in Feature1 Branch
+
+
